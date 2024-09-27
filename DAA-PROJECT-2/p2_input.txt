@@ -1,0 +1,4 @@
+Number of elements (n): 10
+Elements of the array separated by spaces: 7 10 4 3 20 15 1 8 12 5
+Value of k (0-based index for k-th smallest element): 4
+Size of the groups for median finding (positive integer): 5
